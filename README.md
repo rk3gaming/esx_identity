@@ -2,7 +2,7 @@
 
 A Core Resource that Allows the player to Pick their characters, Name, Gender, Height and Date-of-birth.
 
-![Preview]([./preview.png](https://r2.fivemanage.com/Dl2ze8Tfti5DROeJXVyQ6/video/2025-03-2903-14-38.mp4))
+[Preview](https://r2.fivemanage.com/Dl2ze8Tfti5DROeJXVyQ6/video/2025-03-2903-14-38.mp4)
 
 # Infomation
 
